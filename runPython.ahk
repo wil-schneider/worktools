@@ -5,4 +5,4 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 ^6::
 ; Run Python script
-Run, python.exe "<PATH_TO_PYTHON_SCRIPT>LoginAvosFunc.py" , , Min
+Run, python.exe "<PATH_TO_PYTHON_SCRIPT>/LoginAvosParameterized.py" , , Min
