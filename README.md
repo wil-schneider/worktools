@@ -4,12 +4,12 @@ This repository contains a collection of various projects that I have developed 
 
 ## Table of Contents
 
-- [extractPPTImages.py](#extractPPTImages.py)
-- [readTextFromImages.py](#readTextFromImages.py)
-- [convertXSLMtoCSV.py](#convertXSLMtoCSV.py)
-- [LoginAvosParameterized.py](#LoginAvosParameterized.py)
-- [AVOSQuery.ahk](#AVOSQuery.ahk)
-- [Paint.ahk](#Paint.ahk)
+- [extractPPTImages.py](#extractpptimagespy)
+- [readTextFromImages.py](#readtextfromimagespy)
+- [convertXSLMtoCSV.py](#convertxslmtocsvpy)
+- [LoginAvosParameterized.py](#loginavosparameterizedpy)
+- [AVOSQuery.ahk](#avosqueryahk)
+- [Paint.ahk](#paintahk)
 
 ## extractPPTImages.py 
 **extractPPTImages.py** is a Python script that uses the `pptx` and `PIL` libraries to extract text and images from a PowerPoint file. It stores all the images into a target directory with self-describing filenames for easy identification and future use.
