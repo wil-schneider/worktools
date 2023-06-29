@@ -77,10 +77,10 @@ This repository contains a collection of various projects that I have developed 
     pip install selenium
     ```
 
-2. Run the script in your terminal, specifying the AVOS URL, username, and password as arguments:
+2. Edit the code to include your specific AVOS URL, username, and password, then run the script in your terminal, :
 
     ```bash
-    python LoginAvosParameterized.py http://avos-url.com username password
+    python LoginAvosParameterized.py
     ```
 
 ## AVOSQuery.ahk
@@ -93,4 +93,4 @@ This repository contains a collection of various projects that I have developed 
 
 ---
 
-Feel free to explore these tools and adapt them to suit your needs. If you encounter any issues or have any suggestions for improvement, please open an issue or submit a pull request.
+Please create a pull request if you have any issues.
